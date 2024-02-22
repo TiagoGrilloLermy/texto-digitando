@@ -1,0 +1,15 @@
+section {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section > h1 {
+    font-size: xx-large;
+}
+
+section > h1 > strong {
+    color: #FF5733;
+}
